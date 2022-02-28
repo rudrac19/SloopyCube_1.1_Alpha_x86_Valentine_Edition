@@ -1,12 +1,13 @@
-# SloopyCube_1.1_Alpha_x86_Valentine_Edition
+*# SloopyCube_1.1_Alpha_x86_Valentine_Edition/ 
 Hi! Look I have made a new version of SloopyCube!
 
 SloopyCube 1.1 Alpha (x86) Valentine Edition will release on Feb 14 2022!
 
 Please Check it out and follow me, Thanks!
 
-Here are the Updates for SloopyCube 1.1 Alpha (x86) Valentine Edition:
+Here are the Videos for SloopyCube 1.1 Alpha (x86) Valentine Edition:
   
-  -5 New Levels!
-  -New Valentine Background!
-  .New Instrustion Screen!
+  Part 1: https://www.loom.com/share/2fa06b34c0c645a88e166ffa155f1929
+  Part 2:https://www.loom.com/share/b26a87294af54c50953ab6d0bf217478
+  Part 3:https://www.loom.com/share/ebadfaa4d5344cc890ac02db55a2d57f
+  
